@@ -1,0 +1,2 @@
+# KHCoder-Python
+KHCoderとPythonを用いたテキストマイニングをするためのPythonツール. KHCoderでの分析に不足を感じたら都度機能追加する.
